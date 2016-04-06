@@ -1,0 +1,1 @@
+This is a log of my experiment! Put other experimental assets such as images and movies in this directory.
